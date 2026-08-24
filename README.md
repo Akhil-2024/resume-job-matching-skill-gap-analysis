@@ -202,6 +202,12 @@ This provides explainable feedback in addition to the overall similarity score.
 * Docker deployment
 * Cloud deployment
 
+
+## Detailed Project Report
+
+📄 [View Detailed Project Report](docs/Resume_Job_Matching_Detailed_Project_Report.docx)
+
+
 ## Author
 
 Akhilesh Kumar Patel
